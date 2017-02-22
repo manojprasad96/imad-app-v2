@@ -1,7 +1,9 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
-    margin-top: 75px;
+    margin-top: 60px;
+    margin-right: 80px;
+    margin-left: 40px;
 }
 
 .center {

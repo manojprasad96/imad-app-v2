@@ -7,11 +7,11 @@ var margin=0;
 }
 
 function moveLeft(){
-    margin=margin+10;
+    margin=margin+1;
     img.style.marginLeft=margin+'px';
 }
 function moveRight(){
-    margin=margin+10;
+    margin=margin+1;
     img.style.marginRight=margin+'px';
 }
 img.onclick= function (){

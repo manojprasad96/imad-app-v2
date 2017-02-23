@@ -3,11 +3,11 @@ var element1=document.getElementById('txt');
 element1.innerHTML='Hai this is client';
 var img=document.getElementById('imag');
 
-var margin=0;    
+var marginLeft=0;    
 
 function moveLeft(){
-    margin=margin+1;
-    img.style.marginLeft=margin+'px';
+    marginLeft=marginLeft+1;
+    img.style.marginLeft=marginLeft+'px';
 }
 
 img.onclick= function (){

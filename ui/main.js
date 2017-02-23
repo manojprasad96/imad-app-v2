@@ -8,6 +8,7 @@ img.onclick= function (){
         margin=margin+10;
         img.style.marginLeft=margin+'px';
     }
+    margin=0;
     for(i=0;i<5;i++){
         margin=margin+10;
         img.style.marginRight=margin+'px';
